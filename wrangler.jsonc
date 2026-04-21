@@ -9,8 +9,8 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "openapi-template-db",
-			"database_id": "cd58d91b-c4a5-4399-8362-535017864c68"
+			"database_name": "mydb",
+			"database_id": "0939181d-a44e-46c2-adbc-b7a2b1ae18fb"
 		}
 	]
 }
